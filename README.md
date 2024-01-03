@@ -7,6 +7,7 @@ Features
 1. Calculate Loan: Input loan amount, annual interest rate, and loan duration to determine the total repayment and monthly payment.
 <br>
 2. User-Friendly Interface: The application offers an intuitive graphical interface using the Tkinter library.
+<br>
 
 Usage
 <br>
